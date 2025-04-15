@@ -56,5 +56,8 @@ python run_server.py
 Create a ServiceNow change request to deploy PostgreSQL-to-Oracle conversion for inventory system, scheduled for 9 PM Friday. Mark it as a high priority.
 
 Sample SNOW Screen shot - Create/Change Changement
+
+![Alt text](./asset.png)
+
 ![ServiceNow Change Request Demo](asset.png "Demo of MCP Agent creating a change request")
 
