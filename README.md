@@ -43,7 +43,8 @@ SERVICENOW_INSTANCE=https://your_instance.service-now.com
 SERVICENOW_USERNAME=your_username
 SERVICENOW_PASSWORD=your_password
 
-4. pip install -r requirements.txt
+4.  ** Install required Python packages **
+pip install -r requirements.txt
 
 5. ** Run the MCP Agent Server **
 ``bash .env
