@@ -57,12 +57,11 @@ Create a ServiceNow change request to deploy PostgreSQL-to-Oracle conversion for
 
 ### 🖼 Screenshot
 
-![Demo Screenshot](/asset.png "Example of MCP Agent creating a ServiceNow change request")
+![Demo Screenshot](asset.png "Example of MCP Agent creating a ServiceNow change request")
 
 
 Sample SNOW Screen shot - Create/Change Changement
 ![Alt Text](https://github.com/Siths/mcp-agent-servicenow/blob/main/asset.png)
 
 
-![ServiceNow Change Request Demo](https://github.com/Siths/mcp-agent-servicenow/blob/main/asset.png "Demo of MCP Agent creating a change request")
 
